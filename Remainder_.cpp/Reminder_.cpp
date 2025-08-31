@@ -1,4 +1,3 @@
-//Checks Remainder
 #include <stdio.h>
 
 int main(){
