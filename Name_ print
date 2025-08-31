@@ -1,0 +1,11 @@
+//Input and display name 
+
+#include <stdio.h>
+int main ()
+{
+printf("Enter a name");
+scanf("%d",&name);
+printf ("Namah shivaya ,%d",name);
+printf("!");
+return 0;
+}
